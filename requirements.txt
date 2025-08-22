@@ -1,7 +1,0 @@
-# Project: Phishing URL Detector
-# Author: Veerendra Veeru (B.Tech CSE - Cybersecurity)
-# GitHub: https://github.com/venkatveerendra
-
-streamlit
-scikit-learn
-pandas
